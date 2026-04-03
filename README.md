@@ -6,7 +6,7 @@
 
 🎓 Data Analytics & Data Science Enthusiast  
 📊 Passionate about extracting insights from data  
-🚀 Currently learning Python, SQL, and Machine Learning  
+🚀 Skilled in Python, SQL, Excel & Power BI  
 
 ---
 
@@ -29,9 +29,21 @@
 ---
 
 ## 📊 Projects
-🔹 Exploratory Data Analysis (EDA) Project  
-🔹 Sales Dashboard using Power BI  
-🔹 Machine Learning Model (Linear Regression)  
+
+### 📈 Data Analysis & Dashboards
+- 🔹 [Sales Dashboard](https://github.com/Akhilesh710/Sales-Dashboard)
+- 🔹 [Blinkit Data Analysis](https://github.com/Akhilesh710/Blinkit-Data-Analysis)
+- 🔹 [Power BI Project](https://github.com/Akhilesh710/Power-BI-Project)
+- 🔹 [Power BI Project 2](https://github.com/Akhilesh710/Power-BI-Project-2)
+
+### 🧮 SQL & Excel Projects
+- 🔹 [SQL Project](https://github.com/Akhilesh710/Sql-Project)
+- 🔹 [Excel Project](https://github.com/Akhilesh710/Excel-Project)
+
+### 🤖 Machine Learning & Python
+- 🔹 [Stock Market Analysis](https://github.com/Akhilesh710/stock-market)
+- 🔹 [Capstone Project](https://github.com/Akhilesh710/Capstone-Project)
+- 🔹 [Capstone Project 3](https://github.com/Akhilesh710/Capstone-Project-3)
 
 ---
 

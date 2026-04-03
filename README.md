@@ -46,8 +46,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: Add your link here  
-- 📧 Email: Add your email here  
+- 💼 LinkedIn:(https://www.linkedin.com/in/akhilesh-nishad-77b441359/)
+- 📧 Email: akhileshnishad037@gmail.com 
 
 ---
 
